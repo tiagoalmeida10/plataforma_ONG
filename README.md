@@ -5,7 +5,7 @@ Este repositório contém **3 páginas HTML semânticas** (`index.html`, `projet
 Imagens foram **otimizadas** (PNG e WEBP) e usam `loading="lazy"`.
 
 ## Como validar pelo W3C
-Valide em https://validator.w3.org/
+Valide em https://validator.w3.org/ fazendo upload de cada arquivo .html
 
 ## Estrutura
 ```
